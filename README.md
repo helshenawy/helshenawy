@@ -1,5 +1,7 @@
 # TaskJumia
 
+The project is front end have a single page application that it should render a list of all phone numbers available in the DB. It should be 
+possible to filter by country and state. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
 
 ## Development server
